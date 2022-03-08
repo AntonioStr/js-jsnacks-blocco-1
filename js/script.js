@@ -26,3 +26,10 @@
 //     console.log(word1 + " " + word2);
 // }
 
+// +++ JSnack 3 +++
+
+let potenza = 1;
+while (potenza < 1000) {
+    potenza = potenza * 2;
+    console.log(potenza);
+}
